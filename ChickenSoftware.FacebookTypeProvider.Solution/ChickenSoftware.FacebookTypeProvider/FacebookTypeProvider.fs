@@ -1,4 +1,6 @@
-﻿module ChickenSoftware.TypeProvider
+﻿//http://blog.mavnn.co.uk/type-providers-from-the-ground-up/
+
+module ChickenSoftware.TypeProvider
 
 open System
 open System.Reflection
